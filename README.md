@@ -2,7 +2,7 @@
 ## Description
 <br>
 The project aims to find the dominant colors of an image and then segmenting image on the colors found using KMeans Clustering.
-<br>
+
 ## Running
 <br>
 1.Install opencv
