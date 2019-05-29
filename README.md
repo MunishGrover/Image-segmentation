@@ -5,5 +5,6 @@ The project aims to find the dominant colors of an image and then segmenting ima
 
 ## Running
 <br>
-1.Install opencv
-
+1.Install opencv.
+<br>
+2.Run notebook in jupyter.
